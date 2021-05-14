@@ -3,6 +3,7 @@
 ## Prerequisites
 1. Only supports bash
 2. Must have `__git_ps1` command available.  If you don't have this download the script from here and source it: https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh
+3. `/usr/local/etc/bash_completion.d/git-completion.bash` needs to exist
 
 ## Installation
 1. Add the following to your `~/.bashrc`:
